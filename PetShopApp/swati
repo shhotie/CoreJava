@@ -1,0 +1,10 @@
+Pet [petId=1, name=Bull Dog, category=DOG, unitPrice=1000.0, stocks=50]
+
+Pet [petId=2, name=Persian Cat, category=CAT, unitPrice=1500.0, stocks=50]
+
+Pet [petId=3, name=White Rabbit, category=RABBIT, unitPrice=500.0, stocks=50]
+
+Pet [petId=4, name=Golden Fish , category=FISH, unitPrice=300.0, stocks=50]
+
+Pet [petId=5, name=White Dog, category=DOG, unitPrice=2000.0, stocks=50]
+
